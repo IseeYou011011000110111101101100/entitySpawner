@@ -19,7 +19,7 @@ local MinTeaseSize = 150
 local MaxTeaseSize = 300
 
 local SelfModules = {
-    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))(),
+    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/IseeYou011011000110111101101100/entitySpawner/main/functions.lua"))(),
 }
 local ModuleScripts = {
     MainGame = require(Plr.PlayerGui.MainUI.Initiator.Main_Game),
